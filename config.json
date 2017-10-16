@@ -1,7 +1,7 @@
 {
-    "app_id" : "com.toodle.toodlemobile",
-    "appname": "Toodle Mobile",
-    "desktopappname": "Toodle Desktop",
+    "app_id" : "com.toodle.Digimaxx",
+    "appname": "Digimaxx",
+    "desktopappname": "Digimaxx Desktop",
     "versioncode" : "1",
     "versionname" : "3.3.4",
     "cache_expiration_time" : 300000,
