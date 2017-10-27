@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.toodle.Digimaxx"
+        id        = "com.toodle.PFA"
         versionCode = "1"
         version   = "3.3.4">
-    <name>Digimaxx</name>
+    <name>PFA</name>
 
     <description>
-        Digimaxx Mobile official app
+        PFA Mobile official app
     </description>
 
     <author href="http://moodle.com" email="bsuri258@gmail.com">
-        Digimaxx Mobile team
+        PFA Mobile team
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
@@ -137,7 +137,7 @@
         <param name="SENDER_ID" value="694767596569" />
     </gap:plugin>
     <gap:plugin name="cordova-plugin-customurlscheme" source="npm">
-        <param name="URL_SCHEME" value="Digimaxx" />
+        <param name="URL_SCHEME" value="PFA" />
     </gap:plugin>
     <gap:plugin name="ionic-plugin-keyboard" source="npm" />
     <gap:plugin name="cordova-plugin-zip" source="npm" />
