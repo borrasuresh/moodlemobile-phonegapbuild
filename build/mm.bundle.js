@@ -1,4 +1,4 @@
-// (C) Copyright 2015 Martin Dougiamas
+﻿// (C) Copyright 2015 Martin Dougiamas
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -11574,7 +11574,7 @@ angular.module('mm.core.login', [])
         templateUrl: 'core/components/login/templates/site.html',
         controller: 'mmLoginSiteCtrl',
 		onEnter: function($state) {
-           $state.go('mm_login.credentials', {siteurl: 'http://tmlms.co.in/digimaxx/'});
+           $state.go('mm_login.credentials', {siteurl: 'http://tmlms.co.in/toodle/'});
 		}
     })
     .state('mm_login.credentials', {
