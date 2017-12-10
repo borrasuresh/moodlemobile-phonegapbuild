@@ -5,14 +5,14 @@
         id        = "com.toodle.PFA"
         versionCode = "1"
         version   = "3.3.4">
-    <name>Cptest 247</name>
+    <name>thingmax</name>
 
     <description>
-        Cptest Mobile official app
+        thingmax Mobile official app
     </description>
 
     <author href="http://moodle.com" email="bsuri258@gmail.com">
-        Cptest Mobile team
+        thingmax Mobile team
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
